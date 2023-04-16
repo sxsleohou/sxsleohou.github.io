@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Step By Step - LeoHou</title>
+    <link>https://sxsleohou.github.io/blog/</link>
+    <description>Recent content in Blogs on Step By Step - LeoHou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 20 Mar 2023 21:03:00 +0800</lastBuildDate><atom:link href="https://sxsleohou.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇文章</title>
+      <link>https://sxsleohou.github.io/blog/firstpost/</link>
+      <pubDate>Mon, 20 Mar 2023 21:03:00 +0800</pubDate>
+      
+      <guid>https://sxsleohou.github.io/blog/firstpost/</guid>
+      <description>我是 LeoHou
+一位全端工程師
+這是使用 Hugo 撰寫的第一篇文章</description>
+    </item>
+    
+  </channel>
+</rss>
